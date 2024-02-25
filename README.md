@@ -6,6 +6,9 @@ Skills Section: List your key skills or areas of expertise.
 Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images.
 Resume Section: Provide a link to download your resume in PDF format. Contact Section: Include your contact information, such as email address and phone number.
 Footer: Add a copyright notice and any additional links or information.
+Here is the Portfolio I have made....
+
+
 <img width="960" alt="Screenshot 2024-02-25 221144" src="https://github.com/gsnlmounika899/codeway_Portfolio/assets/128975492/c1842b22-3f15-48a4-9e46-4132378d950d">
 
 <img width="960" alt="Screenshot 2024-02-25 221201" src="https://github.com/gsnlmounika899/codeway_Portfolio/assets/128975492/06570f83-e8ae-469a-8299-195bc0de55f1">
