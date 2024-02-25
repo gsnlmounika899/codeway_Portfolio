@@ -5,7 +5,7 @@ Header Section: Add your name or a logo at the top. Optionally, include a brief 
 Skills Section: List your key skills or areas of expertise.
 Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images.
 Resume Section: Provide a link to download your resume in PDF format. Contact Section: Include your contact information, such as email address and phone number.
-Footer: Add a copyright notice and any additional links or information.
+Footer: Add a copyright notice and any additional links or information...........
 Here is the Portfolio I have made....
 
 
